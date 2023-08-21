@@ -1,0 +1,65 @@
+body {
+    background-color:rgb(183, 202, 209); 
+  }
+ img{
+   position:relative;
+   left:450px; 
+    border-radius: 50%; 
+    width: 100px;
+    height: 100px;
+
+ }
+ h1{
+    color:red;
+    font-size: 50px;
+    position:relative;
+    left:450px;
+ }
+ h2{
+   position:relative;
+   left:250px;
+}
+p{
+   position:relative;
+   left:250px;
+}
+ h3{
+    color:red;
+    position:relative;
+    left:250px;
+ }
+ 
+ ul{
+   position:relative;
+    left:250px;
+    margin: 0 auto 0 auto;
+ }
+ thead{
+   position:relative;
+   left:250px;
+ }
+ td{
+   position:relative;
+   left:250px;
+ }
+th{
+   color:red;
+}
+
+ hr{
+     background-color:white;
+     border-style:dotted none none;
+     border-color:gray;
+     border-width:5px;
+     height:0px;
+     width:10%;
+ }
+ li{
+   position:relative;
+   left:250px;
+ }
+ a href{
+   position:relative;
+   left:250px;
+ 
+  }
